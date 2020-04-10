@@ -21,6 +21,7 @@ This repository is for simple implementation of 'Bicubic-interpolation for image
   
 ## 上面的formulation有可能公式错了
 下面的不确定（其他地方copy的）
+
    ![Formulation3](./123.png) 
 
 

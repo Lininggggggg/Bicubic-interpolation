@@ -19,6 +19,11 @@ This repository is for simple implementation of 'Bicubic-interpolation for image
   ![Formulation2](./formulation2.png)  
   Here, f means the values of pixels. x1, x2, x3, x4 are the distance of x direction from new pixel to near 16 pixels. y1, ... are the distance of y direction. 
   
+## 上面的formulation有可能公式错了
+下面的不确定（其他地方copy的）
+   ![Formulation3](./123.png) 
+
+
 ## Example
   * Upscale input image 2 times (ratio = 2)  
   The 'butterfly' image is from [3].  
